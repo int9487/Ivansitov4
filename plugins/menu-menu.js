@@ -21,9 +21,9 @@ var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.present
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let str = `╭「BOT IVAN」
 │➯ *𝙷𝙾𝙻𝙰,➟${taguser}
-│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁: IVANSITO
+│➯ *𝙲𝚁𝙴𝙰𝙳𝙾𝚁: *Ivansito*
 │➯ *𝙸𝙽𝙵𝙾: Wa.me/529984856375 
-│➯ *Yape: Paypal @Ivangg55
+│➯ *Yape: Paypal https://www.paypal.me/Ivangg55
 │➯ *ғᴇᴄʜᴀ:➟${date}
 │➯ *ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:➟${uptime}
 │➯ *ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}
