@@ -1,6 +1,6 @@
 
 ### `—◉ 👑 ¡Hola! Ivansito-MD?, CONTACTAME 👑`
-<a href="http://wa.me/+529984856375" target="blank"><img src="https://img.shields.io/badge/Ale-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+<a href="http://wa.me/+529984856375" target="blank"><img src="https://img.shields.io/badge/Ivan-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 > NO BOT
 
 ### `—◉ 🖍 LETRA DEL BOT 🖍`
