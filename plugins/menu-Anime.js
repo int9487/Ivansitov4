@@ -1,7 +1,7 @@
 import fetch from 'node-fetch'
 let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, isPrems }) => {
 try {
-await m.reply(`╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻❥」\n│➯(♦️)*Hola estás en el menu-Anime elige una opción y pide una imagen*\n╰───────────────╯\n\n\n╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻❥」\n│➯(♦️)*Hello you are in the menu-Anime choose an option and ask for an image*\n╰───────────────╯`)
+await m.reply(`╭「➻❥Ivansito➻❥」\n│➯(♦️)*Hola estás en el menu-Anime elige una opción y pide una imagen*\n╰───────────────╯\n\n\n╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻❥」\n│➯(♦️)*Hello you are in the menu-Anime choose an option and ask for an image*\n╰───────────────╯`)
 let pp = imagen5
 let vn = './Audios/Konede.mp3'
 let img = await(await fetch('https://i.imgur.com/JP52fdP.jpg')).buffer()
@@ -18,20 +18,20 @@ let rtotalreg = Object.values(global.db.data.users).filter(user => user.register
 let more = String.fromCharCode(8206)
 let readMore = more.repeat(850)   
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
-let str = `╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻❥」
+let str = `╭「➻❥Ivansito➻❥」
 │➯𝙷𝙾𝙻𝙰,➟${taguser}
-│➯𝙲𝚁𝙴𝙰𝙳𝙾𝚁
-│➯*𝙸𝙽𝙵𝙾: Wa.me/51992621601
-│➯Yape: 914079837
+│➯𝙲𝚁𝙴𝙰𝙳𝙾𝚁: Ivansito
+│➯*𝙸𝙽𝙵𝙾: Wa.me/529984856375 
+│➯Yape: Paypal @Ivangg55
 │➯ғᴇᴄʜᴀ:➟${date}
 │➯ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:➟${uptime}
 │➯ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}
 ︎╰───────────────╯
-🍁᭢━━━━━━━━━᭥🍁᭢
-╭「𝐁𝐎𝐓𝐂𝐈𝐓𝐎 𝐈𝐙𝐍」
+🔥᭢━━━━━━━━━᭥🔥᭢
+╭「𝐁𝐎𝐓𝐂𝐈𝐓𝐎 IVANSITO」
 │➯ *Menu-Anime*
 ︎╰───────────────╯
-🍁᭢━━━━━━━━━᭥🍁᭢
+🏴‍☠️᭢━━━━━━━━━᭥🏴‍☠️᭢
 ╭─「➻❥ *Animes* ➻❥」
 │➯ *.miku*
 │➯ *.akira*
