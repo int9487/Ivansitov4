@@ -1,7 +1,7 @@
 import fetch from 'node-fetch'
 let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, isPrems }) => {
 try {
-await m.reply(`╭「ALEIZN-MD」\n│➯(♦️)*PUEDES ENTRAR A LOS GRUPOS O VISITAR NUESTRAS PÁGINAS OFICIALES ESO NOS AYUDARÍA MUCHO*\n︎╰───────────────╯\n\n\n╭「➻❥ALEIZN-MD」\n│➯(♦️)*YOU CAN ENTER THE GROUPS OR VISIT OUR OFFICIAL PAGES YOU WOULD HELP US A LOT WITH THAT$\n︎╰───────────────╯`)
+await m.reply(`╭「IVAN-BOT」\n│➯(♦️)*PUEDES ENTRAR A LOS GRUPOS O VISITAR NUESTRAS PÁGINAS OFICIALES ESO NOS AYUDARÍA MUCHO*\n︎╰───────────────╯\n\n\n╭「➻❥ALEIZN-MD」\n│➯(♦️)*YOU CAN ENTER THE GROUPS OR VISIT OUR OFFICIAL PAGES YOU WOULD HELP US A LOT WITH THAT$\n︎╰───────────────╯`)
 let pp = imagen1
 let vn = './Audios/naa.mp3'
 let img = await(await fetch('https://i.imgur.com/JP52fdP.jpg')).buffer()
@@ -20,22 +20,22 @@ let readMore = more.repeat(850)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `╭「➻𝐀𝐋𝐄𝐈𝐙𝐍-𝐌𝐃➻❥」
 │➯𝙷𝚘𝚕𝚊,➟${taguser}
-│➯𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Aleizn
-│➯*Número*➟51992621601
-│➯*Yape:914079837*
-│➯https://www.instagram.com/ale.izn_20/
+│➯𝙼𝙸 𝙲𝚁𝙴𝙰𝙳𝙾𝚁:Ivansito
+│➯*Número*➟529984856375 
+│➯*Yape: Paypal @Ivangg55
+│➯https://www.instagram.com/ivan_gtz55/
 │➯ғᴇᴄʜᴀ:➟${date}
 │➯ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:➟${uptime}
 │➯ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}
 ︎╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
-╭「➻❥*Grupos y cuentas*➻❥」
+╭「➻❥*REDES SOCIALES*➻❥」
 │➯𝐁𝐎𝐓𝐂𝐈𝐓𝐎 𝐈𝐙𝐍
 │➯https://chat.whatsapp.com/HitUqoj58mEJoNKYDKJhUo
 │➯𝐁𝐎𝐓𝐂𝐈𝐓𝐎 𝐈𝐙𝐍
 │➯https://chat.whatsapp.com/IOLX0V0sVbV7Od5FvxSDdr
 │➯𝐁𝐎𝐓𝐂𝐈𝐓𝐎 𝐈𝐙𝐍
-│➯https://www.instagram.com/ale.izn_20/==
+│➯https://www.instagram.com/ivan_gtz55/==
 ︎╰───────────────╯`.trim()
 if (m.isGroup) {
 await conn.sendFile(m.chat, vn, 'naa.mp3', null, m, true, { type: 'audioMessage', ptt: true})
