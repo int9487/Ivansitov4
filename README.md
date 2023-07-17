@@ -26,7 +26,7 @@ git clone https://github.com/int9487/Ivansitov4
 ```
 
 ```bash
-cd Ivansitov4
+cd propio
 ```
 
 ```bash
